@@ -1,0 +1,40 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<div id="gridWrapp" class="k-content">
+    @(Html.Kendo().Grid<ExportSalesOrderDetailsServerSideTelerikControl.Models.SalesOrderDetailViewModel>()
+                .Name("Grid")
+                .Columns(columns =>
+                {
+                    columns.Bound(s => s.SalesOrderID);
+                    columns.Bound(s => s.SalesOrderDetailID);
+                    columns.Bound(s => s.ProductID);
+                    columns.Bound(s => s.OrderQty);
+                    columns.Bound(s => s.UnitPrice);
+
+                })
+                .ToolBar(tools => tools.Excel())
+                .Pageable()
+                .Sortable()
+                .Scrollable()
+                .Groupable()
+                .Excel(excel => excel
+                    .FileName("Kendo UI Grid Export.xlsx")
+                    .ProxyURL(Url.Action("ExportExcel", "Home"))
+                    .Filterable(false)
+                    .AllPages(true)
+                    )
+                .DataSource(dataSource => dataSource
+                    .Ajax()
+                    .Model(m =>
+                    {
+                        m.Id(s => s.SalesOrderDetailID);
+                    })
+                    .Read(read => read.Action("GetSalesOrderDetailsForDataGrid", "Home")))
+
+    )
+</div>
+
+
+

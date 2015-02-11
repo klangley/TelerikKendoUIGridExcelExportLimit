@@ -1,0 +1,59 @@
+C:\Users\klangley\Documents\Sandbox\Entity Framework\Code First\03\AdventureWorks\bin\Debug\AdventureWorks.dll.config
+C:\Users\klangley\Documents\Sandbox\Entity Framework\Code First\03\AdventureWorks\bin\Debug\AdventureWorks.dll
+C:\Users\klangley\Documents\Sandbox\Entity Framework\Code First\03\AdventureWorks\bin\Debug\AdventureWorks.pdb
+C:\Users\klangley\Documents\Sandbox\Entity Framework\Code First\03\AdventureWorks\bin\Debug\EntityFramework.dll
+C:\Users\klangley\Documents\Sandbox\Entity Framework\Code First\03\AdventureWorks\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\klangley\Documents\Sandbox\Entity Framework\Code First\03\AdventureWorks\bin\Debug\EntityFramework.xml
+C:\Users\klangley\Documents\Sandbox\Entity Framework\Code First\03\AdventureWorks\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\klangley\Documents\Sandbox\Entity Framework\Code First\03\AdventureWorks\obj\Debug\AdventureWorks.csprojResolveAssemblyReference.cache
+C:\Users\klangley\Documents\Sandbox\Entity Framework\Code First\03\AdventureWorks\obj\Debug\AdventureWorks.dll
+C:\Users\klangley\Documents\Sandbox\Entity Framework\Code First\03\AdventureWorks\obj\Debug\AdventureWorks.pdb
+C:\Users\klangley\Documents\Sandbox\Telerik\Kendo\UI Controls\Grid\08\AdventureWorks\bin\Debug\AdventureWorks.dll.config
+C:\Users\klangley\Documents\Sandbox\Telerik\Kendo\UI Controls\Grid\08\AdventureWorks\bin\Debug\AdventureWorks.dll
+C:\Users\klangley\Documents\Sandbox\Telerik\Kendo\UI Controls\Grid\08\AdventureWorks\bin\Debug\AdventureWorks.pdb
+C:\Users\klangley\Documents\Sandbox\Telerik\Kendo\UI Controls\Grid\08\AdventureWorks\bin\Debug\EntityFramework.dll
+C:\Users\klangley\Documents\Sandbox\Telerik\Kendo\UI Controls\Grid\08\AdventureWorks\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\klangley\Documents\Sandbox\Telerik\Kendo\UI Controls\Grid\08\AdventureWorks\bin\Debug\EntityFramework.xml
+C:\Users\klangley\Documents\Sandbox\Telerik\Kendo\UI Controls\Grid\08\AdventureWorks\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\klangley\Documents\Sandbox\Telerik\Kendo\UI Controls\Grid\08\AdventureWorks\obj\Debug\AdventureWorks.dll
+C:\Users\klangley\Documents\Sandbox\Telerik\Kendo\UI Controls\Grid\08\AdventureWorks\obj\Debug\AdventureWorks.pdb
+C:\Users\klangley\Documents\Sandbox\Telerik\Kendo\UI Controls\Combo Box\01\AdventureWorks\bin\Debug\AdventureWorks.dll.config
+C:\Users\klangley\Documents\Sandbox\Telerik\Kendo\UI Controls\Combo Box\01\AdventureWorks\bin\Debug\AdventureWorks.dll
+C:\Users\klangley\Documents\Sandbox\Telerik\Kendo\UI Controls\Combo Box\01\AdventureWorks\bin\Debug\AdventureWorks.pdb
+C:\Users\klangley\Documents\Sandbox\Telerik\Kendo\UI Controls\Combo Box\01\AdventureWorks\bin\Debug\EntityFramework.dll
+C:\Users\klangley\Documents\Sandbox\Telerik\Kendo\UI Controls\Combo Box\01\AdventureWorks\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\klangley\Documents\Sandbox\Telerik\Kendo\UI Controls\Combo Box\01\AdventureWorks\bin\Debug\EntityFramework.xml
+C:\Users\klangley\Documents\Sandbox\Telerik\Kendo\UI Controls\Combo Box\01\AdventureWorks\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\klangley\Documents\Sandbox\Telerik\Kendo\UI Controls\Combo Box\01\AdventureWorks\obj\Debug\AdventureWorks.csprojResolveAssemblyReference.cache
+C:\Users\klangley\Documents\Sandbox\Telerik\Kendo\UI Controls\Combo Box\01\AdventureWorks\obj\Debug\AdventureWorks.dll
+C:\Users\klangley\Documents\Sandbox\Telerik\Kendo\UI Controls\Combo Box\01\AdventureWorks\obj\Debug\AdventureWorks.pdb
+C:\Users\klangley\Documents\Sandbox\MVC\AdventureWorks\01\AdventureWorks\bin\Debug\AdventureWorks.dll.config
+C:\Users\klangley\Documents\Sandbox\MVC\AdventureWorks\01\AdventureWorks\bin\Debug\AdventureWorks.dll
+C:\Users\klangley\Documents\Sandbox\MVC\AdventureWorks\01\AdventureWorks\bin\Debug\AdventureWorks.pdb
+C:\Users\klangley\Documents\Sandbox\MVC\AdventureWorks\01\AdventureWorks\bin\Debug\EntityFramework.dll
+C:\Users\klangley\Documents\Sandbox\MVC\AdventureWorks\01\AdventureWorks\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\klangley\Documents\Sandbox\MVC\AdventureWorks\01\AdventureWorks\bin\Debug\EntityFramework.xml
+C:\Users\klangley\Documents\Sandbox\MVC\AdventureWorks\01\AdventureWorks\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\klangley\Documents\Sandbox\MVC\AdventureWorks\01\AdventureWorks\obj\Debug\AdventureWorks.dll
+C:\Users\klangley\Documents\Sandbox\MVC\AdventureWorks\01\AdventureWorks\obj\Debug\AdventureWorks.pdb
+C:\Users\klangley\Documents\Sandbox\MVC\AdventureWorks\01\AdventureWorks\obj\Debug\AdventureWorks.csprojResolveAssemblyReference.cache
+C:\Users\klangley\Documents\IntelliTrain\Tasks\ExportTelerikGrid\Sandbox\AdventureWorks\bin\Debug\AdventureWorks.dll.config
+C:\Users\klangley\Documents\IntelliTrain\Tasks\ExportTelerikGrid\Sandbox\AdventureWorks\bin\Debug\AdventureWorks.dll
+C:\Users\klangley\Documents\IntelliTrain\Tasks\ExportTelerikGrid\Sandbox\AdventureWorks\bin\Debug\AdventureWorks.pdb
+C:\Users\klangley\Documents\IntelliTrain\Tasks\ExportTelerikGrid\Sandbox\AdventureWorks\bin\Debug\EntityFramework.dll
+C:\Users\klangley\Documents\IntelliTrain\Tasks\ExportTelerikGrid\Sandbox\AdventureWorks\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\klangley\Documents\IntelliTrain\Tasks\ExportTelerikGrid\Sandbox\AdventureWorks\bin\Debug\EntityFramework.xml
+C:\Users\klangley\Documents\IntelliTrain\Tasks\ExportTelerikGrid\Sandbox\AdventureWorks\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\klangley\Documents\IntelliTrain\Tasks\ExportTelerikGrid\Sandbox\AdventureWorks\obj\Debug\AdventureWorks.dll
+C:\Users\klangley\Documents\IntelliTrain\Tasks\ExportTelerikGrid\Sandbox\AdventureWorks\obj\Debug\AdventureWorks.pdb
+C:\Users\klangley\Documents\IntelliTrain\Tasks\ExportTelerikGrid\Sandbox\AdventureWorks\obj\Debug\AdventureWorks.csprojResolveAssemblyReference.cache
+C:\Users\klangley\Documents\IntelliTrain\Tasks\ExportTelerikGrid\ToTelerik\01\AdventureWorks\bin\Debug\AdventureWorks.dll.config
+C:\Users\klangley\Documents\IntelliTrain\Tasks\ExportTelerikGrid\ToTelerik\01\AdventureWorks\bin\Debug\AdventureWorks.dll
+C:\Users\klangley\Documents\IntelliTrain\Tasks\ExportTelerikGrid\ToTelerik\01\AdventureWorks\bin\Debug\AdventureWorks.pdb
+C:\Users\klangley\Documents\IntelliTrain\Tasks\ExportTelerikGrid\ToTelerik\01\AdventureWorks\bin\Debug\EntityFramework.dll
+C:\Users\klangley\Documents\IntelliTrain\Tasks\ExportTelerikGrid\ToTelerik\01\AdventureWorks\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\klangley\Documents\IntelliTrain\Tasks\ExportTelerikGrid\ToTelerik\01\AdventureWorks\bin\Debug\EntityFramework.xml
+C:\Users\klangley\Documents\IntelliTrain\Tasks\ExportTelerikGrid\ToTelerik\01\AdventureWorks\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\klangley\Documents\IntelliTrain\Tasks\ExportTelerikGrid\ToTelerik\01\AdventureWorks\obj\Debug\AdventureWorks.csprojResolveAssemblyReference.cache
+C:\Users\klangley\Documents\IntelliTrain\Tasks\ExportTelerikGrid\ToTelerik\01\AdventureWorks\obj\Debug\AdventureWorks.dll
+C:\Users\klangley\Documents\IntelliTrain\Tasks\ExportTelerikGrid\ToTelerik\01\AdventureWorks\obj\Debug\AdventureWorks.pdb
